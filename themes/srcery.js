@@ -47,12 +47,12 @@ module.exports = {
     },
     foreground: {
       default: colors.white,        // Primary
-      success: colors.brightgreen,  // Secondary font color
-      notice: colors.brightyellow,  // Secondary font color
-      warning: colors.brightorange, // Secondary font color
-      danger: colors.brightred,     // Secondary font color
-      surprise: colors.brightwhite, // Secondary font color
-      info: colors.xgray2,          // Secondary font color for info background
+      success: colors.white,  // Secondary font color
+      notice: colors.white,  // Secondary font color
+      warning: colors.white, // Secondary font color
+      danger: colors.white,     // Secondary font color
+      surprise: colors.white, // Secondary font color
+      info: colors.white,          // Secondary font color for info background
     },
     highlight: {
       default: colors.white,        // Sidebar highlight color

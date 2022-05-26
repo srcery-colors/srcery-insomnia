@@ -1,16 +1,32 @@
 {
   "name": "insomnia-plugin-theme-srcery",
-  "version": "1.0.0",
+  "description": "Srcery, an earthy theme, for Insomnia.",
+  "version": "1.0.1",
   "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milogert/insomnia-plugin-theme-srcery.git"
+  },
+  "keywords": [
+    "srcery",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "author": {
+    "name": "Milo Gertjejansen",
+    "url": "https://milogert.com"
+  },
+  "license": "MIT",
 
   "insomnia": {
     "name": "theme-srcery",
     "displayName": "Srcery theme",
-    "description": "Srcery is a color scheme with clearly defined contrasting colors and a slightly earthy tone",
+    "description": "Srcery, an earthy theme, for Insomnia.",
 
     "images": {
-      "icon": "./icon-48x48.svg",
-      "cover": "./cover-952x398.svg"
+      "icon": "./assets/icon-48x48.svg",
+      "cover": "./assets/cover-952x398.svg"
     },
 
     "publisher": {
