@@ -1,0 +1,26 @@
+{
+  "name": "insomnia-plugin-theme-srcery",
+  "version": "1.0.0",
+  "main": "plugin.js",
+
+  "insomnia": {
+    "name": "theme-srcery",
+    "displayName": "Srcery theme",
+    "description": "Srcery is a color scheme with clearly defined contrasting colors and a slightly earthy tone",
+
+    "images": {
+      "icon": "./icon-48x48.svg",
+      "cover": "./cover-952x398.svg"
+    },
+
+    "publisher": {
+      "name": "Milo Gertjejansen",
+      "icon": "https://avatars.githubusercontent.com/u/5378535?v=4"
+    },
+
+    "unlisted": false
+  },
+
+  "dependencies": [],
+  "devDependencies": []
+}
