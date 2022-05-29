@@ -5,7 +5,7 @@
   "main": "plugin.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milogert/insomnia-plugin-theme-srcery.git"
+    "url": "git+https://github.com/srcery-colors/srcery-insomnia.git"
   },
   "keywords": [
     "srcery",
