@@ -3,7 +3,9 @@
   <div>Srcery for Insomnia</div>
 </h2>
 
-This theme is based off of the theme at https://srcery-colors.github.io/.
+![NPM Version](https://img.shields.io/npm/v/insomnia-plugin-theme-srcery?style=for-the-badge)
+
+This is the offical [Srcery](https://srcery-colors.github.io/) theme for [Insomnia](https://insomnia.rest).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/milogert/insomnia-plugin-theme-srcery/master/assets/screenshot.png" />
