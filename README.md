@@ -3,7 +3,7 @@
   <div>Srcery for Insomnia</div>
 </h2>
 
-![NPM Version](https://img.shields.io/npm/v/insomnia-plugin-theme-srcery?style=for-the-badge)
+[![NPM Version](https://img.shields.io/npm/v/insomnia-plugin-theme-srcery?style=for-the-badge)](https://www.npmjs.com/package/insomnia-plugin-theme-srcery)
 
 This is the offical [Srcery](https://srcery-colors.github.io/) theme for [Insomnia](https://insomnia.rest).
 
