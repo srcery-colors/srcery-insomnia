@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-theme-srcery",
   "description": "Srcery, an earthy theme, for Insomnia.",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "main": "plugin.js",
   "repository": {
     "type": "git",
