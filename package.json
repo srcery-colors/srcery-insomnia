@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-theme-srcery",
   "description": "Srcery, an earthy theme, for Insomnia.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "plugin.js",
   "repository": {
     "type": "git",
@@ -25,8 +25,8 @@
     "description": "Srcery, an earthy theme, for Insomnia.",
 
     "images": {
-      "icon": "./assets/icon-48x48.svg",
-      "cover": "./assets/cover-952x398.svg"
+      "icon": "https://github.com/srcery-colors/srcery-assets/blob/055a9fad006526835224be6c6db501898d8659f1/insomnia/icon-48x48.svg",
+      "cover": "https://github.com/srcery-colors/srcery-assets/blob/055a9fad006526835224be6c6db501898d8659f1/insomnia/cover-952x398.svg"
     },
 
     "publisher": {
