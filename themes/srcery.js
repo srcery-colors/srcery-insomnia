@@ -1,21 +1,21 @@
-// Taken from https://github.com/srcery-colors/srcery-web/blob/master/palette/srcery_javascript.js
+// Taken from https://github.com/srcery-colors/srcery-web/blob/master/palette/srcery_javascript.js (palette v2)
 // Corrected slightly:
 //   Second xgray5 -> xgray6
 //   borange -> brightorange
 let colors = {
-  black: "#1C1B19",
+  black: "#121110",
   blue: "#2C78BF",
   cyan: "#0AAEB3",
   green: "#519F50",
   magenta: "#E02C6D",
-  orange: "#D75F00",
+  orange: "#FF5F00",
   red: "#EF2F27",
-  white: "#d0bfa1",
+  white: "#C5B088",
   yellow: "#FBB829",
 
-  brightblack: "#918175",
+  brightblack: "#917E6B",
   brightblue: "#68A8E4",
-  brightcyan: "#53FDE9",
+  brightcyan: "#2BE4D0",
   brightgreen: "#98BC37",
   brightmagenta: "#FF5C8F",
   brightorange: "#FF8700",
@@ -23,13 +23,13 @@ let colors = {
   brightwhite: "#FCE8C3",
   brightyellow: "#FED06E",
 
-  hard_black: "#121212",
-  xgray1: "#262626",
-  xgray2: "#303030",
-  xgray3: "#3A3A3A",
-  xgray4: "#444444",
-  xgray5: "#4E4E4E",
-  xgray6: "#585858",
+  hard_black: "#0E0D0C",
+  xgray1: "#1C1B19",
+  xgray2: "#262522",
+  xgray3: "#312F2C",
+  xgray4: "#3B3935",
+  xgray5: "#45433E",
+  xgray6: "#504D47",
 };
 
 module.exports = {
